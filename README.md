@@ -4,10 +4,6 @@
 
 ### Web & Mobile Developer | Full Stack Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://louigab.github.io/Damondamon_Portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/louigab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
 </div>
 
 
@@ -59,20 +55,6 @@
 - 🌱 Learning all things in tech that interest me
 
 ---
-
-## 📫 Get In Touch
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://louigab.github.io/Damondamon_Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-</div>
-
----
-
-<div align="center">
 
 ### ⭐ From [louigab](https://github.com/louigab)
 
